@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>8C9BFE0D176130CD2C609B4E969DA23C</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Cursed City (Пракляты горад)</title>
+			<author>Мікіта Бяляеў (Nikitoz)</author>
+			<language>be</language>
+			<firstpublished>2014-02-06</firstpublished>
+			<genre>Баявік</genre>
+			<group>URQ</group>
+			<description>Такім чынам, ты - сяржант паліцыі горада Ракун Сіці. Вядома, гэта не самая прэстыжная пасада але на жыццё хапае.<br/>Аўтар арыгінальнага рускамоўнага квэсту: Мікіта Бяляеў (aka Nikitoz)<br/>e-mail: p Nikitozbel@mail.ru<br/>першапачатковае партыраванне пад FireURQ: Chicago1920<br/>ICQ 254881271, e-mail Chicago1920@mail.ru<br/>Пераклад на беларускую мову і тэсціраванне пад AkURQ1.28pre6: Veresk (fantom199ii@gmail.com)</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#cursed_city_be</url>
+			<authoremail>nikitozbel@mail.ru, chicago1920@mail.ru, fantom199ii@gmail.com</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
