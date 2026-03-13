@@ -4,7 +4,7 @@ Text-based game "Cursed City" (Belarusian: "Пракляты горад") by Nik
 
 The game is in Belarusian, developed for RipURQ, adapted for FireURQ by Chicago1920, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#cursed_city_be). See the original Russian version [here](https://github.com/urqw/cursed_city).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=cursed_city_be). See the original Russian version [here](https://github.com/urqw/cursed_city).
 
 The game was first published on February 6, 2014.
 
